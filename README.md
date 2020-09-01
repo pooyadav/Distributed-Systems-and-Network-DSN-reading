@@ -1,7 +1,7 @@
 # Federated_Learning_Reading_Group
 
 
-# Monday 31st August 2020, 11 am (UK time)
+# Tuesday 1st September 2020, 11 am (UK time)
 
 We will be discussing four papers in an informal setting (students' led activity): 
 
