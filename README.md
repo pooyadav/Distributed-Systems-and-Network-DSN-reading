@@ -1,6 +1,14 @@
 # Federated_Learning_Reading_Group
 
 
+# Monday 14th September 2020, 11 am (UK time)
+
+We will be discussing four papers in an informal setting (students' led activity): 
+
+1. FedDANE: A Federated Newton-Type Method (https://arxiv.org/abs/2001.01920)
+2. Reptile: A Scalable Meta-Learning Algorithm (https://openai.com/blog/reptile/)
+
+
 # Tuesday 1st September 2020, 11 am (UK time)
 
 We will be discussing four papers in an informal setting (students' led activity): 
