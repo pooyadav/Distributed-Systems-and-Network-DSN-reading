@@ -4,11 +4,12 @@
 
 # Monday 23rd November 2020, 11 am - 12noon (UK time)
 
-We will be discussing two papers in an informal setting (students' led activity): 
+We will be discussing four papers in an informal setting (students' led activity): 
 
-1. CoLearn: enabling federated learning in MUD-compliant IoT edge networks (https://dl.acm.org/doi/10.1145/3378679.3394528) (Poonam)
-2. Sensor Calibration Fingerprinting for Smartphones, https://www.ieee-security.org/TC/SP2019/papers/405.pdf (Poonam, Jack).
-3. Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations - https://arxiv.org/abs/2003.07133 (Rian McQuillan-Howard)
+1. CoLearn: enabling federated learning in MUD-compliant IoT edge networks (https://dl.acm.org/doi/10.1145/3378679.3394528) and 
+2. Network service dependencies in commodity internet-of-things devices (https://dl.acm.org/doi/abs/10.1145/3302505.3310082) (Poonam)
+3. Sensor Calibration Fingerprinting for Smartphones, https://www.ieee-security.org/TC/SP2019/papers/405.pdf (Poonam, Jack).
+4. Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations - https://arxiv.org/abs/2003.07133 (Rian McQuillan-Howard)
 
 
 # Monday 14th September 2020, 11 am (UK time)
