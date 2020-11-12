@@ -2,7 +2,7 @@
 
 # Monday 23rd November 2020, 11 am - 12noon (UK time)
 
-We will be discussing four papers in an informal setting (students' led activity): 
+We will be discussing two papers in an informal setting (students' led activity): 
 
 CoLearn: enabling federated learning in MUD-compliant IoT edge networks (https://dl.acm.org/doi/10.1145/3378679.3394528) (Poonam)
 
