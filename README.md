@@ -1,12 +1,14 @@
 # Federated_Learning_and_IoT_Reading_Group
 
+
+
 # Monday 23rd November 2020, 11 am - 12noon (UK time)
 
 We will be discussing two papers in an informal setting (students' led activity): 
 
-CoLearn: enabling federated learning in MUD-compliant IoT edge networks (https://dl.acm.org/doi/10.1145/3378679.3394528) (Poonam)
-
-Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations - https://arxiv.org/abs/2003.07133 (Rian McQuillan-Howard)
+1. CoLearn: enabling federated learning in MUD-compliant IoT edge networks (https://dl.acm.org/doi/10.1145/3378679.3394528) (Poonam)
+2. Sensor Calibration Fingerprinting for Smartphones, https://www.ieee-security.org/TC/SP2019/papers/405.pdf (Poonam, Jack).
+3. Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations - https://arxiv.org/abs/2003.07133 (Rian McQuillan-Howard)
 
 
 # Monday 14th September 2020, 11 am (UK time)
