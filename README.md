@@ -4,6 +4,9 @@
 
 We will be discussing four papers in an informal setting (students' led activity): 
 
+CoLearn: enabling federated learning in MUD-compliant IoT edge networks (https://dl.acm.org/doi/10.1145/3378679.3394528) (Poonam)
+
+Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations - https://arxiv.org/abs/2003.07133 (Rian McQuillan-Howard)
 
 
 # Monday 14th September 2020, 11 am (UK time)
