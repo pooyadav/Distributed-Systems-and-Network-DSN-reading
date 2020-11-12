@@ -1,4 +1,9 @@
-# Federated_Learning_Reading_Group
+# Federated_Learning_and_IoT_Reading_Group
+
+# Monday 23rd November 2020, 11 am - 12noon (UK time)
+
+We will be discussing four papers in an informal setting (students' led activity): 
+
 
 
 # Monday 14th September 2020, 11 am (UK time)
