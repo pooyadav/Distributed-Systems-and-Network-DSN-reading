@@ -20,6 +20,8 @@ We will be discussing four papers in an informal setting (students' led activity
 5. A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints - https://www.ndss-symposium.org/ndss-paper/a-practical-approach-for-taking-down-avalanche-botnets-under-real-world-constraints/
 6. Encrypted DNS =⇒ Privacy? A Traffic Analysis Perspective - https://arxiv.org/abs/1906.09682
 
+Other reading: https://www.ncsc.gov.uk/information/pdns
+
 
 # Monday 14th September 2020, 11 am (UK time)
 
