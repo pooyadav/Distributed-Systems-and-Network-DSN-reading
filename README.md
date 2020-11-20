@@ -1,6 +1,8 @@
 # Distributed Systems and Network reading group
 
-In this group we read many cross-sectional papers discussing Machine Learning, IoT, Networks and system Design, Security and Wireless communications.
+In this group we read many cross-sectional papers discussing Machine Learning, IoT, Networks and system Design, Security and Wireless communications. 
+
+If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be happy to send online meeting invite.
 
 
 
