@@ -8,6 +8,13 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 
 ## Federated_Learning_and_IoT_Reading_Group
 
+# Monday 30th November 2020, 11 am - 12noon (UK time)
+
+1. Sensitivity of radiometric fingerprint against wireless channel: poster abstract, https://dl.acm.org/doi/abs/10.1145/3384419.3430455
+2. Fusing WiFi and Camera for Fast Motion Tracking and Person Identification, https://dl.acm.org/doi/10.1145/3384419.3430452
+3. Passive Encrypted IoT Device Fingerprinting with Persistent Homology, https://openreview.net/pdf?id=BXGqPm6nKgP
+4. A supervised intrusion detection system for smart home IoT devices, https://ieeexplore.ieee.org/abstract/document/8753563
+
 
 # Monday 23rd November 2020, 11 am - 12noon (UK time)
 
