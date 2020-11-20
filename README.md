@@ -1,4 +1,4 @@
-# Distributed Systems and Network reading group
+# Distributed Systems and Network (DSN)reading group
 
 In this group we read many cross-sectional papers discussing Machine Learning, IoT, Networks and system Design, Security and Wireless communications. 
 
