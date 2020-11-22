@@ -23,7 +23,7 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 4. A supervised intrusion detection system for smart home IoT devices, https://ieeexplore.ieee.org/abstract/document/8753563
 5. RAFM: A Real-time Auto Detecting and Fingerprinting Method for IoT devices, https://iopscience.iop.org/article/10.1088/1742-6596/1518/1/012043
 
-
+Other reading: https://www.w3.org/wiki/images/7/7d/Is_preventing_browser_fingerprinting_a_lost_cause.pdf
 # Monday 23rd November 2020, 11 am - 12noon (UK time)
 
 We will be discussing four papers in an informal setting (students' led activity): 
