@@ -35,7 +35,7 @@ We will be discussing four papers in an informal setting (students' led activity
 This paper looks on mainly DNS traffic and filters traffic which is not required for local functioning. 
 5. A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints - https://www.ndss-symposium.org/ndss-paper/a-practical-approach-for-taking-down-avalanche-botnets-under-real-world-constraints/ This paper is interesting, look at a proactive approach on identifying domain names which are most likely registered by bots or malacious actors to register Domain names, generally by automating the large sets of domains that the malware
 families of Avalanche generate through domain generation algorithms (DGAs).
-6. Encrypted DNS =⇒ Privacy? A Traffic Analysis Perspective - https://arxiv.org/abs/1906.09682
+6. Encrypted DNS =⇒ Privacy? A Traffic Analysis Perspective - https://arxiv.org/abs/1906.09682 This paper discusses DNS related issues in the network such as enabling manipulation, redirection, surveillance, and censorship
 
 Other reading: https://www.ncsc.gov.uk/information/pdns
 
