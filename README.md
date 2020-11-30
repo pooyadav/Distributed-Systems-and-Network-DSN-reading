@@ -13,6 +13,7 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 2. The TV is Smart and Full of Trackers: Measuring Smart TV Advertising and Tracking, https://web.cs.ucdavis.edu/~zubair/files/smarttv-tracking-pets2020.pdf
 3. Characterizing Smart Home IoT Traffic in the Wild, https://web.cs.ucdavis.edu/~zubair/files/smarthome-iot-iotdi2020.pdf
 4. Fingerprinting the Fingerprinters: Learning to Detect Browser Fingerprinting Behaviors, https://web.cs.ucdavis.edu/~zubair/files/fpinspector-sp2021.pdf
+5. Your WiFi is leaking: What do your mobile apps gossip about you? - 
 
 
 # Monday 30th November 2020, 11 am - 12noon (UK time)
