@@ -19,7 +19,7 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 
 1. Sensitivity of radiometric fingerprint against wireless channel: poster abstract, https://dl.acm.org/doi/abs/10.1145/3384419.3430455 (Daniel)
 2. Fusing WiFi and Camera for Fast Motion Tracking and Person Identification, https://dl.acm.org/doi/10.1145/3384419.3430452 (Jack)
-3. Passive Encrypted IoT Device Fingerprinting with Persistent Homology, https://openreview.net/pdf?id=BXGqPm6nKgP (Poonam)
+3. Passive Encrypted IoT Device Fingerprinting with Persistent Homology, https://openreview.net/pdf?id=BXGqPm6nKgP (Poonam), very useful reading before this paper - https://en.wikipedia.org/wiki/Topological_data_analysis
 4. A supervised intrusion detection system for smart home IoT devices, https://ieeexplore.ieee.org/abstract/document/8753563 (Emilien)
 5. RAFM: A Real-time Auto Detecting and Fingerprinting Method for IoT devices, https://iopscience.iop.org/article/10.1088/1742-6596/1518/1/012043 (Daniel, Jack)
 6. FedML: A Research Library and Benchmark for Federated Machine Learning, https://arxiv.org/pdf/2007.13518.pdf (Josh)
