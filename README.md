@@ -8,6 +8,11 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 
 ## Federated_Learning_and_IoT_Reading_Group
 
+# Monday 11th January 2021, 11:30 am - 12:30noon (UK time)
+1. Ghostor: Toward a Secure Data Sharing System from Decentralized Trust Free, https://www.conferencecast.tv/talk-29680-nsdi-20-ghostor-toward-a-secure-data-sharing-system-from-decentralized-trust.
+2. Providing Occupancy as a Service with Databox, https://dl.acm.org/doi/10.1145/3277893.3277894.
+
+
 # Monday 7th December 2020, 11 am - 12noon (UK time)
 1. Inferring Tracker-Advertiser Relationships in the Online Advertising Ecosystem, https://web.cs.ucdavis.edu/~zubair/files/headerbidding-pets2020.pdf
 2. The TV is Smart and Full of Trackers: Measuring Smart TV Advertising and Tracking, https://web.cs.ucdavis.edu/~zubair/files/smarttv-tracking-pets2020.pdf
