@@ -9,7 +9,7 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 ## Federated_Learning_and_IoT_Reading_Group
 
 # Monday 11th January 2021, 11:30 am - 12:30noon (UK time)
-1. Ghostor: Toward a Secure Data Sharing System from Decentralized Trust Free, https://www.conferencecast.tv/talk-29680-nsdi-20-ghostor-toward-a-secure-data-sharing-system-from-decentralized-trust.
+1. Ghostor: Toward a Secure Data Sharing System from Decentralized Trust Free, https://www.conferencecast.tv/talk-29680-nsdi-20-ghostor-toward-a-secure-data-sharing-system-from-decentralized-trust, https://eprint.iacr.org/2020/648.pdf
 2. Providing Occupancy as a Service with Databox, https://dl.acm.org/doi/10.1145/3277893.3277894.
 
 
