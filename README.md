@@ -6,9 +6,17 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 
 
 
-## Federated_Learning_and_IoT_Reading_Group
+### IoT_Reading_Group 
 
-# Tuesday 18th January 2022, 10:00 am - 11:30 am (UK time)
+## Year 2021 - 2022
+
+# Tuesday 18th January 2022 , 10:00 am - 11:30 am (UK time)
+1. Understand different types of attacks in IoT systems.  A very good tutorial is here: https://pages.nist.gov/FederalProfile-8259A/technical/identity/
+2. How to secure IoT devices from botnet: https://www.techrepublic.com/article/how-to-secure-your-iot-devices-from-botnets-and-other-threats/?ftag=CMG-01-10aaa1b
+
+## Previous reading sessions in Year 2019-2020
+
+# Monday 11th January 2020 ,  11 am - 12noon (UK time)
 1. Ghostor: Toward a Secure Data Sharing System from Decentralized Trust Free, https://www.conferencecast.tv/talk-29680-nsdi-20-ghostor-toward-a-secure-data-sharing-system-from-decentralized-trust, https://eprint.iacr.org/2020/648.pdf
 2. Providing Occupancy as a Service with Databox, https://dl.acm.org/doi/10.1145/3277893.3277894.
 
