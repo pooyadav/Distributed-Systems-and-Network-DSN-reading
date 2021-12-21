@@ -16,12 +16,12 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 
 ## Previous reading sessions in Year 2019-2020
 
-# Monday 11th January 2020 ,  11 am - 12noon (UK time)
+### Monday 11th January 2020 ,  11 am - 12noon (UK time)
 1. Ghostor: Toward a Secure Data Sharing System from Decentralized Trust Free, https://www.conferencecast.tv/talk-29680-nsdi-20-ghostor-toward-a-secure-data-sharing-system-from-decentralized-trust, https://eprint.iacr.org/2020/648.pdf
 2. Providing Occupancy as a Service with Databox, https://dl.acm.org/doi/10.1145/3277893.3277894.
 
 
-# Monday 7th December 2020, 11 am - 12noon (UK time)
+### Monday 7th December 2020, 11 am - 12noon (UK time)
 1. Inferring Tracker-Advertiser Relationships in the Online Advertising Ecosystem, https://web.cs.ucdavis.edu/~zubair/files/headerbidding-pets2020.pdf
 2. The TV is Smart and Full of Trackers: Measuring Smart TV Advertising and Tracking, https://web.cs.ucdavis.edu/~zubair/files/smarttv-tracking-pets2020.pdf
 3. Characterizing Smart Home IoT Traffic in the Wild, https://web.cs.ucdavis.edu/~zubair/files/smarthome-iot-iotdi2020.pdf
@@ -29,7 +29,7 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 5. Your WiFi is leaking: What do your mobile apps gossip about you? - 
 
 
-# Monday 30th November 2020, 11 am - 12noon (UK time)
+### Monday 30th November 2020, 11 am - 12noon (UK time)
 
 1. Sensitivity of radiometric fingerprint against wireless channel: poster abstract, https://dl.acm.org/doi/abs/10.1145/3384419.3430455 (Daniel)
 2. Fusing WiFi and Camera for Fast Motion Tracking and Person Identification, https://dl.acm.org/doi/10.1145/3384419.3430452 (Jack), out of scope of our current projects.
@@ -39,7 +39,7 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 6. FedML: A Research Library and Benchmark for Federated Machine Learning, https://arxiv.org/pdf/2007.13518.pdf (Josh)
 
 Other reading: https://www.w3.org/wiki/images/7/7d/Is_preventing_browser_fingerprinting_a_lost_cause.pdf
-# Monday 23rd November 2020, 11 am - 12noon (UK time)
+### Monday 23rd November 2020, 11 am - 12noon (UK time)
 
 We will be discussing four papers in an informal setting (students' led activity): 
 
@@ -55,7 +55,7 @@ families of Avalanche generate through domain generation algorithms (DGAs).
 Other reading: https://www.ncsc.gov.uk/information/pdns
 
 
-# Monday 14th September 2020, 11 am (UK time)
+### Monday 14th September 2020, 11 am (UK time)
 
 We will be discussing four papers in an informal setting (students' led activity): 
 
@@ -63,7 +63,7 @@ We will be discussing four papers in an informal setting (students' led activity
 2. Reptile: A Scalable Meta-Learning Algorithm (https://openai.com/blog/reptile/)
 
 
-# Tuesday 1st September 2020, 11 am (UK time)
+### Tuesday 1st September 2020, 11 am (UK time)
 
 We will be discussing four papers in an informal setting (students' led activity): 
 
@@ -72,7 +72,7 @@ We will be discussing four papers in an informal setting (students' led activity
 3. Bayesian Nonparametric Federated Learning of Neural Networks (https://arxiv.org/abs/1905.12022)
 4. Decentralized Federated Multi-Task Learning and System Design (https://fl.chaoyanghe.com/)
 
-# Monday 24th August 2020, 11 am (UK time)
+### Monday 24th August 2020, 11 am (UK time)
 
 We will be discussing three papers in an informal setting (students' led activity): 
 
