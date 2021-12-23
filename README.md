@@ -14,6 +14,8 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 1. Understand different types of attacks in IoT systems.  A very good tutorial is here: https://pages.nist.gov/FederalProfile-8259A/technical/identity/
 2. How to secure IoT devices from botnet: https://www.techrepublic.com/article/how-to-secure-your-iot-devices-from-botnets-and-other-threats/?ftag=CMG-01-10aaa1b
 3. What is IoT device identity and why this is important: https://pages.nist.gov/FederalProfile-8259A/technical/identity/
+4. Benchmarking IoT: https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/eliminating-iot-vulnerabilities-using-cis-benchmarks-and-azure/ba-p/2624784
+5. IoT device authentication: https://www.nabto.com/iot-device-authentication-comparison-guide/
 
 ## Previous reading sessions in Year 2019-2020
 
