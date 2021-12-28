@@ -13,7 +13,7 @@ If you like to join us, please ping me at poonam.yadav[at]york.ac.uk, would be h
 6. Role of Device Identification and Manufacturer Usage Description in IoT Security: A Survey. https://ieeexplore.ieee.org/abstract/document/9374442
 7. Intra-Network eXposure analyzer Utility Specification, https://www.ietf.org/id/draft-morais-iotops-inxu-00.html
 8. IoT Device Profiling: From MUD Files to S×C Contracts, https://dl.gi.de/handle/20.500.12116/33171
-9. S×C4IoT: A Security-by-contract Framework for Dynamic Evolving IoT Devices, 
+9. S×C4IoT: A Security-by-contract Framework for Dynamic Evolving IoT Devices, https://dl.acm.org/doi/fullHtml/10.1145/3480462
 
 # Tuesday 18th January 2022 , 10:00 am - 11:30 am (UK time)
 1. Understand different types of attacks in IoT systems.  A very good tutorial is here: https://pages.nist.gov/FederalProfile-8259A/technical/identity/
